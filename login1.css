@@ -53,7 +53,7 @@
 {
   width: 100%;
   height: 100vh;
-  backgound-image: url('.media/bg1.jpg');
+  backgound-image: url('.login/bg1.jpg');
   background-position: center;
   background-size: cover;
 }
@@ -66,7 +66,7 @@
   width: 75%;
   height: 75%;
   transform: translate(-50%, -50%);
-  backgrounf-image: url('.media/bg1.jpg')
+  backgrounf-image: url('.login/bg1.jpg')
   background-position: center;
   background-size: cover;
   display: flex;
